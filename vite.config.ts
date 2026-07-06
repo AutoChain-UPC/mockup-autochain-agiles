@@ -16,7 +16,7 @@ function figmaAssetResolver() {
 }
 
 export default defineConfig({
-  base: '/mockup-autochain/',
+  base: '/mockup-autochain-agiles/',
 
   plugins: [
     figmaAssetResolver(),
